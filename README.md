@@ -1,3 +1,1 @@
-# alx-pre_course
-this is my first repository at alx se program
-at alx for the softwre engineering programm
+I am now an ALX sudent, this is my first repository as a full-stack engineer
